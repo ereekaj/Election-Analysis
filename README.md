@@ -11,7 +11,7 @@ I've already been working with the Colorado Board of Elections to complete an au
 The screenshot below shows the results of the election audit in the terminal. These results can also be found in the text file [Election_Analysis.txt](https://github.com/ereekaj/Election-Analysis/blob/main/analysis/election_analysis.txt).
 ![ScreenshotTerminal](https://github.com/ereekaj/Election-Analysis/blob/main/Resources/ScreenshotTerminal.png)
 
-- *How many votes were cast in this congressional election?* In this particular election 369,711 votes were cast. 
+- *How many votes were cast in this congressional election?* In this election, 369,711 votes were cast. 
 
 - *Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.* A breakdown of the total number and percentage of votes per county is shown below:
   - Jefferson: 10.5% (38,855 votes)
@@ -28,4 +28,4 @@ The screenshot below shows the results of the election audit in the terminal. Th
 - *Which candidate won the election, what was their vote count, and what was their percentage of the total votes?* Diana DeGette won the election with 272,892 votes or 73.8% of the total votes. 
 
 ## Election-Audit Summary: 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The Python script used in the audit was successful in providing the requested information and analysis for the Election Commission.  This script may also be useful in other election audits by changing just a few lines of code.  For example, the script calls and uses a specific csv file to access the election data.  For a new election audit, I would just have to update the location and name of the document containing the new data to analyze it using the same script.  I would also need to modify the code to save the audit results to a new document and location than the document used in this particular audit.  
