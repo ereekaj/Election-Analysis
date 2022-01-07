@@ -18,7 +18,7 @@ The screenshot below shows the results of the election audit in the terminal. Th
   - Denver: 82.8% (306,055 votes)
   - Arapahoe: 6.7% (24,801 votes)
 
-- *Which county had the largest number of votes?* Denver County had the largest number of votes which resulted in 82.8% of the total votes. 
+- *Which county had the largest number of votes?* Denver County had the largest number of votes which was 82.8% of the total votes. 
 
 - *Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.* A breakdown of the total number and percentage of votes per candidate is shown below:
   - Charles Casper Stockham: 23.0% (85,213 votes)
